@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
@@ -394,9 +394,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 845d0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffff
+      m_ExpandedIDs: 16fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -776,9 +776,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.2942922, y: 0.89563894, z: 2.4887128}
+    m_Target: {x: 2.22436, y: 5.92056, z: 39.974922}
     speed: 2
-    m_Value: {x: -2.2942922, y: 0.89563894, z: 2.4887128}
+    m_Value: {x: 2.22436, y: 5.92056, z: 39.974922}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -824,9 +824,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.032524623, y: -0.9598176, z: 0.13092983, w: -0.2464808}
+    m_Target: {x: -0.37419385, y: -0.59833187, z: 0.6020741, w: -0.373765}
     speed: 2
-    m_Value: {x: -0.032890826, y: -0.95952266, z: 0.132356, w: -0.24640672}
+    m_Value: {x: -0.3732501, y: -0.5988273, z: 0.6025698, w: -0.3728269}
   m_Size:
     m_Target: 0.47613662
     speed: 2
@@ -1038,7 +1038,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Personaje/Zombie
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1046,16 +1046,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Personaje/Zombie
   m_LastFoldersGridSize: 64
-  m_LastProjectPath: D:\WilsonFTovar\OneDrive\Documents\GitHub\MazeRunner-WilsonFTovar\ProyectoFinal
+  m_LastProjectPath: D:\WilsonFTovar\OneDrive\Documents\GitHub\Maze-wilson\ProyectoFinal
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 705f0000
-    m_LastClickedID: 24432
-    m_ExpandedIDs: 00000000705f0000725f0000745f0000
+    m_SelectedIDs: 845d0000
+    m_LastClickedID: 23940
+    m_ExpandedIDs: 000000006e5d0000705d0000725d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1083,7 +1083,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000705f0000725f0000745f0000
+    m_ExpandedIDs: 000000006e5d0000705d0000725d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
